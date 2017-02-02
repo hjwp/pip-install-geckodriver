@@ -6,7 +6,7 @@ The idea is that you should be able to install geckodriver with just a
     # or
     pip install --user geckodriver
 
-For any platform.  Releasese will track https://github.com/mozilla/geckodriver/releases
+For any platform.  Releases will track https://github.com/mozilla/geckodriver/releases
 
 ## TODOS
 
