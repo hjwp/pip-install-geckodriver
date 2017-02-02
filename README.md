@@ -10,6 +10,10 @@ For any platform.  Releases will track https://github.com/mozilla/geckodriver/re
 
 ## TODOS
 
+* oh, the naive approach using `scripts` won't work.  Figure out a workaround (wheel?)
+
+## FUTURE TODOS
+
 * be more clever so the user doesn't have to download all 27MB of binaries for every platform before getting
   just the one they want
   
